@@ -1,0 +1,67 @@
+
+
+
+h1{
+	font-weight: 400;
+	font-family: 'Linux Libertine', 'Georgia', 'Times', 'Source Serif Pro', serif;
+	letter-spacing: 3px;
+	text-align: center;
+}
+p{
+	text-align: justify;
+	line-height: 24px;
+	word-spacing: 2px;
+}
+h2{
+	text-align: right;
+}
+.fr{
+	float: right;
+	border: solid 1px grey;
+	padding: 6px;
+}
+.fr figcaption{
+	padding-left: 8px;
+}
+
+
+<ul>
+<li><a href="#Назва">1	Назва</a></li>
+<ul>
+<li>1.1	Русь</li>
+<li>1.2	Україна</li>
+</ul>
+<li>2	Географія та природа</li>
+<ul>
+<li>2.1	Розташування</li>
+<li>2.2	Рельєф</li>
+<li>2.3	Клімат</li>
+<li>2.4	Водотоки та водойми</li>
+<li>2.5	Ландшафти й фізико-географічне районування</li>
+<li>2.6	Заповідні території</li>
+<li>2.7	Корисні копалини</li>
+<li>2.8	Біорізноманіття</li>
+</ul>
+<li>3	Історія</li>
+<ul>
+<li>3.1	Стародавність</li>
+<li>3.2	Середньовіччя</li>
+
+<ul>
+<li>3.2.1	Русь</li>
+<li>3.2.2	Галицько-Волинська держава</li>
+<li>3.2.3	У складі литовсько-руської та польської держав</li>
+</ul>
+<li>3.3	Новий час</li>
+
+<ul>
+<li><a href="#Назва">1	Назва</a></li>
+<ul>
+<li><a href="#Русь">1.1	Русь</a></li>
+<li><a href="#Україна">1.2	Україна</a></li>
+</ul>
+<li><a href="#Географія та природа">2 Географія та природа</a></li>
+<ul>
+<li><a href="#Розташування">2.1 Розташування</a></li>
+
+https://cdn-icons-png.flaticon.com/512/25/25282.png
