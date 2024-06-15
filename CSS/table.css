@@ -1,0 +1,17 @@
+body{
+	background-color: lightpink;
+}
+p{
+	font-size: 50px;
+	color: purple;
+	background-color: violet;
+}
+table{
+	border: double 2px hotpink;
+	font-size: 24px;
+	width: 50%;
+}
+th{
+	border: solid 1px plum;
+	width: 25%;
+}
