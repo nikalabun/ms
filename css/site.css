@@ -25,7 +25,7 @@ article > p{
 }
 article{
 	margin: 5px;
-	border: 2px dashed lavender;
+	border: 2px;
 }
 .bgvideo{
 	height: 100%;
