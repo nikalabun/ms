@@ -47,6 +47,7 @@ article{
 h1{
 	z-index: 2;
 	color: lavender;
+  text-shadow: 1px 1px 6px black;
 }
 a{
 	text-decoration: none;
