@@ -1,5 +1,5 @@
 body{
-	background-color: lightslategrey;
+	background-color: lightcoral;
 	background-image: url(https://www.icegif.com/wp-content/uploads/2023/03/icegif-1393.gif);
 background-size: 200px;
 background-repeat: no-repeat;
@@ -7,8 +7,8 @@ background-position: 95% 90%;
 background-attachment: fixed;
 }
 p{
-	font-size: 0.9in;
-	color: darkkhaki;
+	font-size: 0,9in;
+	color: green;
 	background-image: url(https://t3.ftcdn.net/jpg/04/12/82/16/360_F_412821610_95RpjzPXCE2LiWGVShIUCGJSktkJQh6P.jpg);
 	background-size: cover;
 }
@@ -20,8 +20,8 @@ background-size: cover;
 border: 30px groove teal;
 }
 #d2{
-	width: 400px;
-	height: 400px;
+	width: 500px;
+	height: 500px;
 	border: 30px solid;
 	border-image: linear-gradient(teal,grey,lavender) 30;
 	margin: 50px;
@@ -32,9 +32,15 @@ border: 30px groove teal;
 	margin-bottom: 50px;
 }
 #img2{
-	width: 50%;
+	width: 30%;
 	display: block;
 	margin: auto;
 	border-radius: 50%;
-	box-shadow: 0 0 50px hotpink;
+	margin-bottom: 50px;
+}
+#img3{
+	width: 30%;
+	display: block;
+	margin: auto;
+	border-radius: 50%;
 }
