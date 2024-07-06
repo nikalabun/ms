@@ -7,21 +7,21 @@ background-position: 95% 90%;
 background-attachment: fixed;
 }
 p{
-	font-size: 3in;
+	font-size: 0,9in;
 	color: green;
 	background-image: url(https://t3.ftcdn.net/jpg/04/12/82/16/360_F_412821610_95RpjzPXCE2LiWGVShIUCGJSktkJQh6P.jpg);
 	background-size: cover;
 }
 #d1{
-	width: 800px;
-	height: 800px;
+	width: 500px;
+	height: 500px;
 	background-image: url(https://burst.shopifycdn.com/photos/beach-at-sunset-in-teal-and-orange.jpg);
 background-size: cover;
-border: 50px groove teal;
+border: 30px groove teal;
 }
 #d2{
-	width: 600px;
-	height: 400px;
+	width: 500px;
+	height: 500px;
 	border: 30px solid;
 	border-image: linear-gradient(teal,grey,lavender) 30;
 	margin: 50px;
@@ -36,5 +36,11 @@ border: 50px groove teal;
 	display: block;
 	margin: auto;
 	border-radius: 50%;
-	box-shadow: 0  50px hotpink;
+	margin-bottom: 50px;
+}
+#img3{
+	width: 30%;
+	display: block;
+	margin: auto;
+	border-radius: 50%;
 }
