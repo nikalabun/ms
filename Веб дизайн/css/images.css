@@ -1,7 +1,7 @@
 body{
 	background-color: lightcoral;
 	background-image: url(https://www.icegif.com/wp-content/uploads/2023/03/icegif-1393.gif);
-background-size: 500px;
+background-size: 200px;
 background-repeat: no-repeat;
 background-position: 95% 90%;
 background-attachment: fixed;
@@ -13,8 +13,8 @@ p{
 	background-size: cover;
 }
 #d1{
-	width: 900px;
-	height: 900px;
+	width: 500px;
+	height: 500px;
 	background-image: url(https://burst.shopifycdn.com/photos/beach-at-sunset-in-teal-and-orange.jpg);
 background-size: cover;
 border: 30px groove teal;
